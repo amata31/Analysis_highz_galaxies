@@ -106,5 +106,5 @@ highzgalaxy_P2.py
 
 ## ⚠️ Note
 
-These notebooks are provided solely to showcase the analysis tools and methodology developed in this project.
+These notebooks are not automatized since it was necessary to select the sources by eye for our analysis.
 
