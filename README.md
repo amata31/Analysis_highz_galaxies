@@ -7,7 +7,7 @@ This project focuses on the analysis of astronomical spectroscopy data obtained 
 The work involves building Python-based pipelines for:
 
 * Data preprocessing
-* Model fitting
+* Emission-line fitting using single Gaussian profiles
 * Lyman-α fitting and neutral hydrogen estimation
 * Galaxy classification using diagnostic diagrams
 
