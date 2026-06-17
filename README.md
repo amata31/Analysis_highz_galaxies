@@ -8,7 +8,7 @@ The work involves building Python-based pipelines for:
 
 * Data preprocessing
 * Model fitting
-* Lyman α fitting and neutral hydrogen estimation
+* Lyman-α fitting and neutral hydrogen estimation
 * Galaxy classification using diagnostic diagrams
 
 These tools enable the extraction of **physical parameters** and the interpretation of **high-redshift sources**, contributing to the study of galaxy formation and evolution in the early universe.
@@ -25,11 +25,11 @@ The spectral data used in this project is publicly available through the DJA arc
 
 ## ⚙️ Features
 
-* 🔧 Automated preprocessing of JWST/NIRSpec spectra
-* 📊 Spectral line identification and analysis
-* 📈 Model fitting for astrophysical parameter estimation
-* 🌠 Focus on high-redshift 5<z<7 (early universe) sources
-* 🧪 Modular and reproducible Python pipelines
+* 🔧 Preprocessing of JWST/NIRSpec spectra with focus on high-redshift 5<z<7 (early universe) sources
+* 📊 Spectral line identification and fitting
+* 📈 Model fitting and estimation of neutral hydrogen
+* 🌠 Correlation between parameters 
+* 🧪 BPT classification diagram (3 sigma upper limits)
 
 ---
 
